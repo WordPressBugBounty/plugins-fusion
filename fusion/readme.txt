@@ -3,7 +3,7 @@ Contributors: agencydominion
 Tags: admin, custom, builder, page builder, layout builder, layout, page, columns, multi-column, grid, responsive, shortcode, bootstrap
 Requires at least: 3.9
 Tested up to: 7.1.1
-Stable tag: 1.6.5
+Stable tag: 1.6.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,6 +63,12 @@ Yes. Fusion is designed to be compatible with themes that adhere to WordPress' t
 We have designed the Fusion core plugin to be fast, light, and easily expandable. We have also built a number of extension plugins so that you choose which functionality you would like to add based on the needs of your website.
 
 == Changelog ==
+
+= 1.6.6 =
+* Improve style and script enqueuing for better cache busting
+
+= 1.6.5 =
+* Improve admin editing UX
 
 = 1.6.4 =
 * Improve admin editing UX
