@@ -2,8 +2,8 @@
 Contributors: agencydominion
 Tags: admin, custom, builder, page builder, layout builder, layout, page, columns, multi-column, grid, responsive, shortcode, bootstrap
 Requires at least: 3.9
-Tested up to: 6.8.2
-Stable tag: 1.6.4
+Tested up to: 7.1.1
+Stable tag: 1.6.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
